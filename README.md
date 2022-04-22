@@ -1,5 +1,9 @@
 # Cryptocurrencies
 Module 18
+## Tools used:
+    - Jupyter Notebook
+    - Python
+    
 
 ## Background
 
